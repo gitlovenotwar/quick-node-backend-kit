@@ -1,4 +1,4 @@
-# Quick Full Stack Kit
+# Quick Node Backend Kit
 
 A starter kit that utilizes the modern kit for a backend app. It is designed to setup as simple as possible to extend for different uses.
 
