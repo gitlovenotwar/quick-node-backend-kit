@@ -1,7 +1,7 @@
 {
   "name": "quick-node-backend-kit",
   "version": "1.0.0",
-  "description": "A starter kit that utilizes the modern kit for a backend app. It is designed to as setup as simple as possible to extend for different uses.",
+  "description": "A starter kit that utilizes the modern kit for a backend app. It is designed to setup as simple as possible to extend for different uses.",
   "main": "server.js",
   "scripts": {
     "watch": "nodemon server.js",
